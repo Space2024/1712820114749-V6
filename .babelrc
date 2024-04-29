@@ -1,0 +1,16 @@
+
+
+
+
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"],
+  "plugins": [
+    ["@babel/plugin-transform-async-generator-functions"],
+    ["@babel/plugin-transform-class-properties"],
+    ["@babel/plugin-transform-optional-chaining"],
+    // Add other plugins as needed
+  ]
+}
+
+  
+  
